@@ -1,0 +1,43 @@
+# Docker ignore file for MLOps Python project
+# Excludes unnecessary files from Docker image builds
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Data and Models
+data/*.csv
+models/*.pkl
+models/*.h5
+*.dvc
+.dvc/cache
+
+# MLflow
+mlruns/
+.mlflow/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
