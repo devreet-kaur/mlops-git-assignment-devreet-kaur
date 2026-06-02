@@ -1,3 +1,6 @@
+# Docker ignore file for MLOps Python project
+# Excludes unnecessary files from Docker image builds
+
 # Python
 __pycache__/
 *.py[cod]
