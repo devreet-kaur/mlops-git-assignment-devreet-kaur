@@ -149,7 +149,7 @@ mlops-git-assignment-[your-name]/
 ├── .gitignore                   # Python template
 ├── .dockerignore                # Docker exclusions
 ├── CODE_OF_CONDUCT.md           # Community guidelines
-├── LICENSE                      # MIT or Apache 2.0
+├── LICENSE                      # Apache 2.0
 ├── Assignment1_Report.md        # Assignment completion report
 ├── requirements.txt             # Python dependencies (if applicable)
 ├── src/                         # Source code (if applicable)
