@@ -157,6 +157,9 @@ mlops-git-assignment-[your-name]/
 └── data/                        # Data folder (if applicable)
 ```
 
+## Contributing
+Feel free to open a pull request or raise an issue.
+
 ---
 **Last Updated:** June 2, 2026  
 **Status:** Assignment 1 part 2  
