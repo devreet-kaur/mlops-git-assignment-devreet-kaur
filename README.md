@@ -1,16 +1,26 @@
 # MLOps Git Assignment
 
+<<<<<<< HEAD
 ## Student Information
 Name: Devreet Kaur  
 Student ID:139459259
+=======
+## Course Information
+**Course:** MAI201 - Machine Learning Operations
+**Instructor:** Asma Azim
+**Term:** Summer 2026
+>>>>>>> origin/develop
 
 ## Project Description
 This repository demonstrates Git branching strategies, version control best practices, and collaboration workflows for ML projects in MAI201 MLOps.
 
+<<<<<<< HEAD
 ## Course Information
 **Course:** MAI201 - Machine Learning Operations  
 **Term:** Summer 2026
 
+=======
+>>>>>>> origin/develop
 ## Setup Instructions
 
 ### Prerequisites
@@ -26,13 +36,13 @@ This repository demonstrates Git branching strategies, version control best prac
    cd mlops-git-assignment-[your-name]
    ```
 
-2. Create a virtual environment (optional):
+2. Create a virtual environment(optional):
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. Install dependencies (if applicable):
+3. Install dependencies(if applicable):
    ```bash
    pip install -r requirements.txt
    ```
