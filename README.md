@@ -1,26 +1,17 @@
 # MLOps Git Assignment
 
-<<<<<<< HEAD
 ## Student Information
 Name: Devreet Kaur  
 Student ID:139459259
-=======
+
 ## Course Information
 **Course:** MAI201 - Machine Learning Operations
 **Instructor:** Asma Azim
 **Term:** Summer 2026
->>>>>>> origin/develop
 
 ## Project Description
 This repository demonstrates Git branching strategies, version control best practices, and collaboration workflows for ML projects in MAI201 MLOps.
 
-<<<<<<< HEAD
-## Course Information
-**Course:** MAI201 - Machine Learning Operations  
-**Term:** Summer 2026
-
-=======
->>>>>>> origin/develop
 ## Setup Instructions
 
 ### Prerequisites
@@ -173,6 +164,4 @@ mlops-git-assignment-[your-name]/
 ## Contributing
 Feel free to open a pull request or raise an issue.
 
----
-**Last Updated:** June 2, 2026  
-**Status:** Assignment 1 part 2  
+
