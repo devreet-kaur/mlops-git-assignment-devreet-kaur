@@ -1,6 +1,4 @@
-cat > CODE_OF_CONDUCT.md << 'EOF'
 # Code of Conduct
-
 ## Our Pledge
 
 We are committed to making participation in this project a respectful and harassment-free experience for everyone.
@@ -33,4 +31,3 @@ Instances of unacceptable behavior may be reported to the project team. All comp
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
-EOF
