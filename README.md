@@ -1,10 +1,13 @@
 # MLOps Git Assignment
 
+## Student Information
+Name: Devreet Kaur  
+Student ID:139459259
+
 ## Project Description
 This repository demonstrates Git branching strategies, version control best practices, and collaboration workflows for ML projects in MAI201 MLOps.
 
-## Student Information
-**Name:** Devreet Kaur   
+## Course Information
 **Course:** MAI201 - Machine Learning Operations  
 **Term:** Summer 2026
 
